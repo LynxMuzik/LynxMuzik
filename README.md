@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and coding
 - 🌱 I’m currently learning how to get better at my coding skills
 - 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me: snapchat okboomer
+- 📫 How to reach me: snapchat @okboomer1324354
 
 <!---
 LynxMuzik/LynxMuzik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
